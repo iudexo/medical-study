@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/Social%20Media%20in%20the%20Connected%20Age%20_standalone_.html"
+    }
+  ]
+}
